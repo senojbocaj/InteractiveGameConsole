@@ -1,10 +1,4 @@
-# By submitting this assignment, I agree to the following:
-# "Aggies do not lie, cheat, or steal, or tolerate those who do."
-# "I have not given or received any unauthorized aid on this assignment."
-#
-# Name:       Jacob Jones
-# Section:    575
-# Assignment: Final Project
+# Name:       Jacob Jones\
 # Date:       12/05/2022
 
 # Main Menu ####################################################################################################################################################
